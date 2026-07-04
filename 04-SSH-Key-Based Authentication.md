@@ -71,7 +71,7 @@ The following screenshot demonstrates the successful configuration of passwordle
 Sensitive information including usernames, hostnames and SSH public key material has been intentionally redacted before publication.
 
 <p align="center">
-<img src="images/chapter4-passwordless-ssh.png" width="900">
+<img src="screenshots/09-chapter4-passwordless-ssh.png" width="900">
 </p>
 
 
