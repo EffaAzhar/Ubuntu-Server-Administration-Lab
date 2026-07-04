@@ -1,4 +1,4 @@
-# Chapter 1 - Installing Ubuntu Server
+# Chapter 1 : Installing Ubuntu Server
 
 ## Overview
 
