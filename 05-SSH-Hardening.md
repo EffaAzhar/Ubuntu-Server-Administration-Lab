@@ -186,7 +186,7 @@ This confirmed that password authentication was disabled, SSH keys were required
 
 ## Password Authentication Test
 
-![Password Authentication Disabled](11-screenshots/chapter5-password-denied.png)
+![Password Authentication Disabled](screenshots/11-chapter5-password-denied.png)
 
 
 
