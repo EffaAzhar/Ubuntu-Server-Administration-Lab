@@ -182,11 +182,11 @@ This confirmed that password authentication was disabled, SSH keys were required
 
 ## SSH Hardening and Configuration
 
-![SSH Hardening](screenshots/chapter5-ssh-hardening.png)
+![SSH Hardening](screenshots/10-chapter5-ssh-hardening.png)
 
 ## Password Authentication Test
 
-![Password Authentication Disabled](screenshots/chapter5-password-denied.png)
+![Password Authentication Disabled](11-screenshots/chapter5-password-denied.png)
 
 
 
