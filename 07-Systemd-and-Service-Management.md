@@ -155,25 +155,24 @@ systemctl --failed
 
 ![Running Services](screenshots/16-chapter7-systemd-running-services-and-ssh-status.png)
 
----
+
 
 ### Managing the Cron service
 
 ![Cron Service](screenshots/17-chapter7-cron-service-management.png)
 
----
+
 
 ### Viewing Cron logs using Journalctl
 
 ![Journalctl Logs](screenshots/18-chapter7-journalctl-cron-logs.png)
 
----
+
 
 ### Verifying failed services
 
 ![Failed Services](screenshots/19-chapter7-systemctl-failed.png)
 
----
 
 # Learning Outcomes
 
@@ -183,7 +182,7 @@ After completing this chapter I was able to:
 - List running services
 - Inspect service status
 - Restart services safely
-- Verify boot-time service configuration
+- Verify boot time service configuration
 - Start and stop services
 - Review service logs using journalctl
 - Check the system for failed services
