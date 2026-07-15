@@ -153,7 +153,7 @@ systemctl --failed
 
 ### Running services and SSH service management
 
-![Running Services](screenshots/16-chapter7-running-services-and-ssh-status.png)
+![Running Services](screenshots/16-chapter7-systemd-running-services-and-ssh-status.png)
 
 ---
 
