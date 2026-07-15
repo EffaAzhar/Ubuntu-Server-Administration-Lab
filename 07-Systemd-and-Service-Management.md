@@ -1,4 +1,4 @@
-# Chapter 7 - Systemd and Service Management
+# Chapter 7: Systemd and Service Management
 
 ## Objective
 
