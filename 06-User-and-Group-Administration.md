@@ -147,7 +147,7 @@ The following screenshot demonstrates:
 - Creating a new user
 - Assigning administrative privileges using the `sudo` group
 
-![User Management](screenshots/06-01-user-management.png)
+![User Management](screenshots/12-chapter6-user-management.png)
 
 
 ## Step 6: Create a User with adduser
@@ -221,7 +221,7 @@ The following screenshot demonstrates:
 - Adding a user to a supplementary group
 - Verifying group memberships
 
-![Group Management](screenshots/06-02-group-management.png)
+![Group Management](screenshots/13-chapter6-group-management.png)
 
 ## Step 9: Configure a Shared Directory
 
@@ -262,7 +262,7 @@ The following screenshot demonstrates:
 - Assigning the developers group
 - Configuring directory permissions
 
-![Directory Permissions](screenshots/06-03-directory-permissions.png)
+![Directory Permissions](screenshots/14-chapter6-directory-permissions.png)
 ## Step 10: Verify User Access
 
 To confirm that permissions were correctly applied, the session was switched to the `prince` account.
@@ -292,7 +292,7 @@ The following screenshot verifies that:
 - A new file was created successfully
 - The configured permissions functioned as expected
 
-![Permission Verification](screenshots/06-04-user-access-test.png)
+![Permission Verification](screenshots/15-chapter6-user-access-test.png)
 
 # Commands Used
 
