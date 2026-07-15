@@ -159,19 +159,19 @@ systemctl --failed
 
 ### Managing the Cron service
 
-![Cron Service](screenshots/07-02-cron-service-management.png)
+![Cron Service](screenshots/17-chapter7-cron-service-management.png)
 
 ---
 
 ### Viewing Cron logs using Journalctl
 
-![Journalctl Logs](screenshots/07-03-journalctl-cron-logs.png)
+![Journalctl Logs](screenshots/18-chapter7-journalctl-cron-logs.png)
 
 ---
 
 ### Verifying failed services
 
-![Failed Services](screenshots/07-04-systemctl-failed.png)
+![Failed Services](screenshots/19-chapter7-systemctl-failed.png)
 
 ---
 
