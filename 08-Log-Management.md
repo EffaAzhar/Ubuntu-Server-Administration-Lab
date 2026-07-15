@@ -51,7 +51,7 @@ sudo tail -10 /var/log/syslog
 
 ## Evidence
 
-![System Log Files](screenshots/08-01-var-log-directory.png)
+![System Log Files](screenshots/20-chapter8-var-log-directory.png)
 
 **Figure** Listing the contents of `/var/log` and viewing recent entries from `auth.log` and `syslog`.
 
@@ -96,7 +96,7 @@ These commands are useful for troubleshooting and investigating recent system ac
 
 ## Evidence
 
-![SSH Journal Logs](screenshots/08-02-journalctl-ssh.png)
+![SSH Journal Logs](screenshots/21-chapter8-journalctl-ssh.png)
 
 **Figure** Viewing SSH service logs using `journalctl`.
 
@@ -129,7 +129,7 @@ Authentication logs are commonly reviewed during security monitoring and forensi
 
 ## Evidence
 
-![Authentication Logs](screenshots/08-03-authentication-events.png)
+![Authentication Logs](screenshots/22-chapter8-authentication-events.png)
 
 **Figure** Reviewing successful and failed SSH authentication events.
 
@@ -161,7 +161,7 @@ Log rotation helps maintain system performance while preserving historical log i
 
 ## Evidence
 
-![Logrotate Configuration](screenshots/08-04-logrotate-configuration.png)
+![Logrotate Configuration](screenshots/23-chapter8-logrotate-configuration.png)
 
 **Figure** Viewing the Logrotate configuration and package specific rotation policies.
 
