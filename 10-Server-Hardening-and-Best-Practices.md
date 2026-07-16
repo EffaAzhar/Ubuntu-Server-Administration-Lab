@@ -23,8 +23,7 @@ sudo apt upgrade
 During the update process, Ubuntu reported that two repository metadata files were "not valid yet" because of a timestamp mismatch. Despite these warnings, the remaining repositories were successfully contacted and multiple software packages were upgraded without issues.
 
 ### Evidence
-
-_Insert Screenshot 10.1 – apt update and apt upgrade_
+![Figure 10.1 – apt update and apt upgrade](screenshots/28-chapter10-apt-update-upgrade.png)
 
 
 # 10.2 Verifying the SSH Configuration
@@ -49,7 +48,7 @@ Important security settings confirmed include:
 
 ### Evidence
 
-_Insert Screenshot 10.2 – SSH effective configuration (sshd -T)_
+![Figure 10.2 – SSH effective configuration](screenshots/29-chapter10-sshd-configuration.png)
 
 
 # 10.3 Firewall Verification
@@ -74,7 +73,7 @@ These rules ensure that only the required network services are accessible while 
 - 
 ### Evidence
 
-_Insert Screenshot 10.3 – UFW verbose status_
+![Figure 10.3 – UFW verbose status](screenshots/30-chapter10-ufw-status.png)
 
 # 10.4 Reviewing Running Services
 
@@ -99,7 +98,7 @@ No unnecessary services were observed, indicating a minimal and well maintained 
 
 ### Evidence
 
-_Insert Screenshot 10.4 – Running system services_
+![Figure 10.4 – Running system services](screenshots/31-chapter10-running-services.png)
 
 
 # 10.5 Inspecting Listening Network Ports
@@ -122,7 +121,7 @@ No unnecessary applications were exposing additional network ports. This reduces
 
 ### Evidence
 
-_Insert Screenshot 10.5 – Listening network ports_
+![Figure 10.5 – Listening network ports](screenshots/32-chapter10-listening-ports.png)
 
 
 # 10.6 Reviewing Authentication Logs
@@ -145,7 +144,7 @@ The output displayed failed SSH login attempts for an invalid user account. Moni
 
 ### Evidence
 
-_Insert Screenshot 10.6 – Failed authentication log entries_
+![Figure 10.6 – Authentication log review](screenshots/33-chapter10-authentication-logs.png)
 
 
 # 10.7 Verifying Administrative Privileges
@@ -159,10 +158,6 @@ The output confirmed that only the intended administrative accounts belonged to 
 
 - admine
 - admin2
-
-### Evidence
-
-_Insert Screenshot 10.7 – Sudo group membership_
 
 # 10.8 Reviewing Disk Usage
 
@@ -180,7 +175,7 @@ The output showed:
 
 ### Evidence
 
-_Insert Screenshot 10.8 – Disk usage_
+![Figure 10.8 – Disk usage](screenshots/34-chapter10-disk-usage.png)
 
 
 # 10.9 Final Security Assessment
